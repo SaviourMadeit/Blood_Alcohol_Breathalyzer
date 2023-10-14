@@ -6,7 +6,7 @@
 
 Project: {Solar-based Alcohol detector}
 
-----------------------------------------------------Descripon--------------------------------------------------------------
+----------------------------------------------------Description--------------------------------------------------------------
 
 The solar-based alcohol breath detector system described in the provided code operates as a comprehensive tool designed to assess 
 the alcohol content in a person's breath and convey the results in a clear and informative manner. This innovative device incorporates 
@@ -28,7 +28,7 @@ After the warm-up phase, the microcontroller retrieves the alcohol content from 
 the user's condition based on preset alcohol level thresholds.
 
 The system employs a set of LED indicators in various colors, each denoting a specific alcohol concentration range. 
-Green LEDs signify sobriety, yellow LEDs indicate mild alcohol consumption, and red LEDs signify higher levels of intoxication.
+Green LEDs signify sobriety, yellow LEDs indicate mild alcohol consumption and red LEDs signify higher levels of intoxication.
 By implementing different blinking rates for the LEDs, the system enhances the visual impact, reflecting the severity of the situation. 
 Moreover, a buzzer is incorporated, emitting distinct tones when alcohol levels surpass a certain threshold, providing an auditory warning to the user.
 
@@ -55,7 +55,7 @@ Assemble the circuit following the diagram layout.png attached to the sketch
 
 == Step 3: Load the code
 
-Upload the code contained in this sketch on to your board
+Upload the code contained in this sketch onto your board
 
 === Folder structure
 
@@ -68,13 +68,13 @@ Upload the code contained in this sketch on to your board
 ....
 
 === License
-This project is released under a {License} License.
+This project is released under an {MIT} License.
 
 === Contributing
-To contribute to this project please contact saviourbot https://id.arduino.cc/saviourbot
+To contribute to this project please contact senamdagadusaviour@gmail.com
 
 === BOM
-Add the bill of the materials you need for this project.
+Add the bill for the materials you need for this project.
 
 |===
 | ID | Part name      | Part number | Quantity
